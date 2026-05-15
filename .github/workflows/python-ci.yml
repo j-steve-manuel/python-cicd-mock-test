@@ -24,4 +24,4 @@ run: pip install pytest
 - name: Install Project
 run: pip install -e .
 - name: Run Tests
-run: pytest123
+run: pytest
